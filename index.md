@@ -20,5 +20,5 @@ Berikut ini adalah koleksi yang dimiliki:
 13. [Resume Kuliah Umum](ebook/Resume Kuliah Umum.pdf) - Muhammad Alvin Ghiffary (13040123140160)
 
 ---
-[halaman1.html](webti/halaman1.html)
+[halaman1](webti/halaman1.html)
 *Powered by Github Pages*
